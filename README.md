@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://github.com/Aritra-in/Aritra-in/assets/111588470/da29e282-493f-48c2-9e50-8802db415eb2">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra-in&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-in" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra-in&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-in" /></p>
 
 <p align="left"> <a href="https://twitter.com/aritra_tw" target="blank"><img src="https://img.shields.io/twitter/follow/aritra_tw?logo=twitter&style=flat" alt="aritra_tw" /></a> </p>
 
