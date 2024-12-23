@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aritramukhopadhyay4@gmail.com**
 
-- ⚡ Fun fact **As a developer always start count from 0 :)**
+- ⚡ Fun fact **A developer always starts count from 0 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +54,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra-in&show_icons=true&locale=en&layout=compact" alt="aritra-in" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra-in&show_icons=true&locale=en" alt="aritra-in" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra-in&show_icons=true&locale=en" alt="aritra-in" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritra-in&" alt="aritra-in" /></p> -->
 
